@@ -34,3 +34,6 @@ Processing workflow developed by Ippolyte, including specific functions adapted 
 
 ## 🙏 Acknowledgments:
 GeoLab is an initiative aimed at the research community with the participation of Fundação para a Ciência e Tec30 nologia (FCT), Fundação para a Computação Científica Nacional (FCCN), Agência Regional para o Desenvolvimento (Credits: Loureiro et al. 2026)
+
+![Wave Energy Resource Figure](OceanWavesFigure3_1.jpg)
+> **Figure 1:** [Figure 3.1] from Folley, M. (2017). *The Wave Energy Resource*. In: Pecher, A., Kofoed, J. (eds) Handbook of Ocean Wave Energy. Ocean Engineering & Oceanography, vol 7. Springer, Cham. [https://doi.org/10.1007/978-3-319-39889-1_3](https://doi.org/10.1007/978-3-319-39889-1_3)
