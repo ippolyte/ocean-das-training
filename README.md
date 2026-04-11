@@ -9,7 +9,7 @@ Fiber optics for Oceanographic Applications Image
 >[!IMPORTANT]
 >**Data Download Required:** To run the analysis in this repository, you must download the 29MB dataset. 
 >1. Download the file from our [Latest Release](https://github.com/ippolyte/ocean-das-training/releases/latest).
->2. Save it inside a folder named `data/` in the root of this project.
+>2. Your DAS file is inside a folder named `data/`. Save it in the root of this project.
 >3. The notebook you need for this training session is [SUBMERSE HCMR](https://github.com/ippolyte/ocean-das-training/blob/main/SUBMERSE_HCMR.ipynb)
 
 ## 📌 Objectives
