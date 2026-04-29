@@ -38,6 +38,9 @@ The above processing has been semi automated and this is a sample of the work pe
 Processing workflow developed by Ippolyte, including specific functions adapted from the **ROSES (Remote Online Sessions for Emerging Seismologists)** (Eileen Martin) for handling GeoLab .hdf5 data.
 
 ## 🙏 Acknowledgments:
+
+This development was supported by the European Commission under the Horizon Europe programme, through the project SUBMERSE (https://submerse.eu/) (Grant Agreement No. 101095055), funded within the HORIZON-INFRA-2022-TECH-01 call.
+
 GeoLab is an initiative aimed at the research community with the participation of Fundação para a Ciência e Tec30 nologia (FCT), Fundação para a Computação Científica Nacional (FCCN), Agência Regional para o Desenvolvimento (Credits: Loureiro et al. 2026)
 
 ![Wave Energy Resource Figure](OceanWavesFigure3_1.jpg)
